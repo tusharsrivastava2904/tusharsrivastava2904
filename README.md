@@ -5,7 +5,7 @@ Hola, I am just a guy who is trying to learn coding from scratch.<br>
 <hr>
 
 <h3> Find me around the web 🌎:</h3>
-  Follow me on Linkedin- <a href="www.linkedin.com/in/tushar-srivastava-a52223191" target="_blank">👉</a><br>
+  Follow me on Linkedin- <a href="https://www.linkedin.com/in/tushar-srivastava-a52223191/" target="_blank">👉</a><br>
   Follow me on Twitter- <a href ="https://twitter.com/ekminuterukna" target="_blank">👉</a><br>
   Follow me on Instagram- <a href ="https://www.instagram.com/ekminuterukna" target="_blank">👉</a><br>
 <hr>
