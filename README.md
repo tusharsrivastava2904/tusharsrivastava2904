@@ -10,5 +10,6 @@ Hola, I am just a guy who is trying to learn coding from scratch.<br>
   Follow me on Instagram- <a href ="https://www.instagram.com/ekminuterukna" target="_blank">👉</a><br>
 <hr>
 
-[![Tushar's github stats](https://github-readme-stats.vercel.app/api?username=tusharsrivastava2904)](https://github.com/tusharsrivastava2904/github-readme-stats)
+[![Tushar's github stats](https://github-readme-stats.vercel.app/api?username=tusharsrivastava2904&show_icons=true&theme=graywhite)](https://github.com/tusharsrivastava2904/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tusharsrivastava2904&layout=compact&theme=vue)](https://github.com/tusharsrivastava2904/github-readme-stats)
  <hr>
