@@ -10,5 +10,5 @@ Hola, I am just a guy who is trying to learn coding from scratch.<br>
   Follow me on Instagram- <a href ="https://www.instagram.com/ekminuterukna" target="_blank">👉</a><br>
 <hr>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=tusharsrivastava2904&show_icons=true)
+[![Tushar's github stats](https://github-readme-stats.vercel.app/api?username=tusharsrivastava2904)](https://github.com/tusharsrivastava2904/github-readme-stats)
  <hr>
