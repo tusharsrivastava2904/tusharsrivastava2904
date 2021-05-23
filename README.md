@@ -1,6 +1,6 @@
 ## Hi, I'm Tushar Srivastava👋
 Hola, I am just a guy who is trying to learn coding from scratch.<br>
-*Python | Java | Kotlin | Android Application Development*
+*Java | Android Application Development | Python 3*
 
 <hr>
 
